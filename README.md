@@ -71,7 +71,7 @@ Files in this repository:
 
 |     File / Folder      |                         Description                          |
 | :--------------------: | :----------------------------------------------------------: |
-|         images         |  Folder at the root of the project, where images are stored  |
+| google-play-and-apple-app-store.png|  Playstore Image  |
 | AppleStore.csv         | Containing data about approximately seven thousand iOS apps from the App Store |
 | googleplaystore.csv    | Containing data about approximately ten thousand Android apps from Google Play |
 | Profitable App Profiles for the App Store and Google Play Markets.ipynb     | Analysis of Apple&GooglePlayStore Data |
